@@ -1,5 +1,5 @@
 {
-  "name": "is-base-64",
+  "name": "@thiscosta/is-base-64",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
